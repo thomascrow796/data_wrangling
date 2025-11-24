@@ -1,4 +1,4 @@
-quar---
+---
 title: "Demonstrating Quarto for GitHub READMEs"
 format: gfm
 execute: 
